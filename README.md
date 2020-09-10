@@ -6,7 +6,7 @@ Este é meu porfifólio onde exponho sites os quais desenvolvi com fim de estudo
 
 O intuito deste projeto foi aprimorar habilidades com React utilizando JS e CSS.
 
-<img src="netflixClone.gif">
+<img src="netflix.png">
 
 # 2 - Inova Criciúma
 
